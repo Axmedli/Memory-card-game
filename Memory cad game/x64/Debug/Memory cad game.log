@@ -1,0 +1,3 @@
+﻿  Memory cad game.cpp
+C:\Users\Murad\Desktop\c++\Memory cad game\Memory cad game\Memory cad game.cpp(253,32): warning C4566: character represented by universal-character-name '\U0001F389' cannot be represented in the current code page (1254)
+  Memory cad game.vcxproj -> C:\Users\Murad\Desktop\c++\Memory cad game\x64\Debug\Memory cad game.exe
